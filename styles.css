@@ -1,0 +1,31 @@
+/*************TAG SELECTOR********/
+body {
+  background-color: #CBF1F5;
+}
+
+hr {
+  border-style: dotted none none;
+  background-color: #71C9CE;
+  border-width: 5px;
+  border-color: #A6E3E9;
+  width: 50%;
+}
+
+h1 {
+  color: #425F57;
+}
+
+h3 {
+  color: #425F57;
+}
+
+
+
+/*************CLASS SELECTOR********/
+.profile_pic{
+  border-radius: 100%;
+}
+/*************ID SELECTOR********/
+#summary{
+  color: #000000;
+}
